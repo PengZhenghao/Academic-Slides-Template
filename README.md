@@ -1,6 +1,8 @@
-# Academic-Slides-Template for Keynote in macOS
+# Academic Slides Template for Keynote in macOS
 
-Author: Mark Zhenghao Peng.
+Author: Mark Zhenghao Peng
+
+Extremely clear, minimalistic academic slides template which I have used for a long time.
 
 
 ## Demo
